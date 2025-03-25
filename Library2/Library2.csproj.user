@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Presentation\BookView\BookOfSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\BookView\FormBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\BookView\FormBooklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\Borrow\FormBorrowManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\MajorView\FormMajor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\MemberView\FormMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\MemberView\FormMemberList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\People\FormPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\People\FormPersonList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\RoleView\FormRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\RoleView\FormRoleActivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\Shared\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Presentation\Shared\MyComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Presentation\Shared\MyGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Presentation\SubjectView\FormSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\MenuView\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\UserView\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\UserView\FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\UserView\FormUserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\WriterView\FormWriter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\WriterView\FormWriterList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
